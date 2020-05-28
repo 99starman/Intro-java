@@ -1,2 +1,2 @@
 # Intro-java
-Select assigments from Princeton's intro Java course on coursera
+Selected assigments from Princeton's intro Java course on Coursera
