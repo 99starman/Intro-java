@@ -1,3 +1,5 @@
+// Write a program RecursiveSquares.java that takes an integer command-line argument n and plots a recursive square pattern of order n.
+
 public class RecursiveSquares {
     // Draws a square centered on (x, y) of the given side length
     // with a light gray background and a black border.
