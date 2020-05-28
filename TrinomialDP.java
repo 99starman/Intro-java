@@ -1,3 +1,6 @@
+// Write a program TrinomialDP.java that takes two integer command-line arguments n and k and computes the trinomial coefficient 
+// T(n,k) using (bottom-up) dynamic programming.
+    
 public class TrinomialDP {
 
     public static long trinomial(int n, int k) {
